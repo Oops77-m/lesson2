@@ -1,1 +1,3 @@
 123
+ git remote add branch1 https://github.com/Oops77-m/lesson2.git
+ git push -u branch1 branch2
